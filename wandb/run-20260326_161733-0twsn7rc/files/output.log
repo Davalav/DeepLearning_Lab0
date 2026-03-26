@@ -1,0 +1,23 @@
+mps
+Saved The Best Performing Model
+Epoch [1/10] train loss: 2.248, val loss: 2.166, lr: 0.000100
+Saved The Best Performing Model
+Epoch [2/10] train loss: 2.096, val loss: 2.010, lr: 0.000100
+Saved The Best Performing Model
+Epoch [3/10] train loss: 1.958, val loss: 1.881, lr: 0.000100
+Saved The Best Performing Model
+Epoch [4/10] train loss: 1.852, val loss: 1.781, lr: 0.000100
+Saved The Best Performing Model
+Epoch [5/10] train loss: 1.773, val loss: 1.703, lr: 0.000100
+Saved The Best Performing Model
+Epoch [6/10] train loss: 1.708, val loss: 1.645, lr: 0.000100
+Saved The Best Performing Model
+Epoch [7/10] train loss: 1.655, val loss: 1.593, lr: 0.000100
+Saved The Best Performing Model
+Epoch [8/10] train loss: 1.613, val loss: 1.553, lr: 0.000100
+Saved The Best Performing Model
+Epoch [9/10] train loss: 1.576, val loss: 1.515, lr: 0.000100
+Saved The Best Performing Model
+Epoch [10/10] train loss: 1.543, val loss: 1.479, lr: 0.000100
+Test loss: 1.485
+Test accuracy: 48.67%

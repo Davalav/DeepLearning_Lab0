@@ -1,0 +1,51 @@
+_wandb:
+    value:
+        cli_version: 0.25.1
+        e:
+            iwh5thk9k0dl28q5fuvkjkzao8d19mqn:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 7
+                    memoryGb: 16
+                    name: Apple M1
+                    pcpuCores: 4
+                    ramTotalBytes: "17179869184"
+                codePath: /Users/joannaandersson/DeepLearning_Lab0/lab0.ipynb
+                codePathLocal: lab0.ipynb
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "245107195904"
+                        used: "244431736832"
+                email: kanskejoanna@icloud.com
+                executable: /usr/local/bin/python3
+                git:
+                    commit: 621183042e443da585a66bfade3fc0be4ccd1c9e
+                    remote: https://github.com/Davalav/DeepLearning_Lab0.git
+                host: MacBookAir
+                memory:
+                    total: "17179869184"
+                os: macOS-15.3.1-arm64-arm-64bit
+                program: /Users/joannaandersson/DeepLearning_Lab0/lab0.ipynb
+                python: CPython 3.10.0
+                root: /Users/joannaandersson/DeepLearning_Lab0
+                startedAt: "2026-03-26T15:17:33.139921Z"
+                writerId: iwh5thk9k0dl28q5fuvkjkzao8d19mqn
+        m: []
+        python_version: 3.10.0
+        t:
+            "1":
+                - 1
+                - 41
+            "2":
+                - 1
+                - 41
+            "3":
+                - 2
+            "4": 3.10.0
+            "5": 0.25.1
+            "8":
+                - 1
+            "12": 0.25.1
+            "13": darwin-arm64

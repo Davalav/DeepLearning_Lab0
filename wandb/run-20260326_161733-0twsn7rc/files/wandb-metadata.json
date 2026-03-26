@@ -1,0 +1,36 @@
+{
+  "os": "macOS-15.3.1-arm64-arm-64bit",
+  "python": "CPython 3.10.0",
+  "startedAt": "2026-03-26T15:17:33.139921Z",
+  "program": "/Users/joannaandersson/DeepLearning_Lab0/lab0.ipynb",
+  "codePath": "/Users/joannaandersson/DeepLearning_Lab0/lab0.ipynb",
+  "codePathLocal": "lab0.ipynb",
+  "git": {
+    "remote": "https://github.com/Davalav/DeepLearning_Lab0.git",
+    "commit": "621183042e443da585a66bfade3fc0be4ccd1c9e"
+  },
+  "email": "kanskejoanna@icloud.com",
+  "root": "/Users/joannaandersson/DeepLearning_Lab0",
+  "host": "MacBookAir",
+  "executable": "/usr/local/bin/python3",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "244431736832"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 7,
+    "memoryGb": 16,
+    "ramTotalBytes": "17179869184"
+  },
+  "writerId": "iwh5thk9k0dl28q5fuvkjkzao8d19mqn"
+}
